@@ -149,7 +149,7 @@ If you use this project in your research, please cite:
   title={Semiconductor Wafer Clustering AI Agent},
   author={Janhavi Giri},
   year={2025},
-  url={https://github.com/YOUR_USERNAME/semiconductor-wafer-clustering-agent}
+  url={https://github.com/janhavi-giri/semiconductor-wafer-clustering-agent}
 }
 ```
 
