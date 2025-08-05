@@ -26,7 +26,7 @@ The easiest way to get started is using Google Colab:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/semiconductor-wafer-clustering-agent.git
+git clone https://github.com/janhavi-giri/semiconductor-wafer-clustering-agent.git
 cd semiconductor-wafer-clustering-agent
 ```
 
