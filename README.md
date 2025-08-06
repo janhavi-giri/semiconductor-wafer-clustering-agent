@@ -15,6 +15,9 @@ An intelligent LangChain-based agent for analyzing semiconductor wafer data usin
 - 💻 **User-Friendly UI** - Gradio-based web interface for easy interaction
 - 🔧 **Extensible Architecture** - Easy to add new tools and algorithms
 
+![semiconductor-wafer-clustering-agent](https://github.com/janhavi-giri/semiconductor-wafer-clustering-agent/blob/main/WaferClusteringAIAgent-4August2025-gif.gif)
+
+
 ## 🚀 Quick Start
 
 ### Google Colab (Recommended)
